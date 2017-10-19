@@ -1,5 +1,8 @@
 # Bitcoins-Mining-Simulator
 
+Code is not allowed to upload to Github yet.
+Following are my learning tips:
+
 
 1.Cryptographic hash function in Elixir/Erlang
   Most Erland modules can be accessed by Elixir, usage:   :crypto
